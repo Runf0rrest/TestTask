@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class LogInTest {
     private WebDriver driver;
     private String Email = "pechenkkin@gmail.com";
-    private String Password = "Streetballxx11";
+    private String Password = "";
 
     @Before
     public void initDriver() {
